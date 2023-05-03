@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 500,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:apple"
+  },
+  "result": "cookedapplea:cooked_apples"
+}
